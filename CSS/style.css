@@ -1,0 +1,32 @@
+*{
+    font-family: nonospace;
+}
+
+h1{
+    color: green;
+}
+
+p{
+    color: blue;
+}
+
+.bg-hitam{
+    background-color: black;
+}
+
+.bg-biru{
+    background-color: darkblue;
+}
+#border{
+    border-style: solid;
+    border-color: black;
+    border: 20;
+}
+
+#margin {
+    margin: 20px;
+}
+
+#padding {
+    padding: 20px;
+}
